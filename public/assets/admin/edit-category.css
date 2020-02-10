@@ -1,0 +1,22 @@
+.container.main-content.edit-form {
+    border: 1px solid gray;
+    margin: auto;
+    width: 98%;
+    min-height: 70px;
+    margin-bottom: 220px;
+}
+
+.form-group.col-md-5.name-input {
+    margin: auto;
+    margin-top: 30px;
+}
+
+button.btn.btn-primary.btn-edit-cat {
+    margin-left: 46%;
+    margin-top: 20px;
+    margin-bottom: 45px;
+}
+
+.menu-left {
+    min-height: 200px;
+}

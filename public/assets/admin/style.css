@@ -1,0 +1,223 @@
+
+ul li {
+    text-decoration: none;
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+/* style blade login */
+.content {
+    margin: auto;
+    margin-top: 8%;
+    width: 40%;
+    height: 60%;
+    border: 1px ridge gray;
+}
+
+.login-header {
+    font-size: 2em;
+    color: black;
+    background-color: white;
+    border-bottom: 1px ridge gray;
+}
+
+.login-wrap {
+    margin-top: 10%;
+    margin-top: 10px;
+}
+
+.login-btn {
+    margin-left: 80%;
+}
+
+/* style blade dashboard */
+.wrap-dashboard {
+    display: flex;
+}
+
+.menu-left {
+    width: 16%;
+    background: #dddddd;
+    min-height: 800px;
+}
+
+.title-menu {
+    height: 55px;
+    width: 100%;
+    background: #5398ca;
+    text-align: center;
+    line-height: 50px;
+    color: #fff;
+}
+
+.item {
+    width: 123%;
+    height: 40px;
+    line-height: 40px;
+    margin-left: -40px;
+    padding-left: 40px;
+}
+
+.item:hover {
+    background: #fff;
+}
+
+.item i {
+    margin-right: 10px;
+}
+
+.content-dashboard {
+    width: 85%;
+}
+
+.content-title {
+    width: 100%;
+    height: 55px;
+    line-height: 50px;
+    background: #7db6de;
+    text-align: right;
+    padding-right: 30px;
+    color: #fff;
+}
+
+.content-title i {
+    margin-right: 5px;
+}
+
+
+.content-text {
+    width: 97%;
+    margin: auto;
+    font-size: 20pt;
+}
+
+.title-menu p {
+    margin-top: 0;
+    font-size: 23px;
+}
+
+.content-title p {
+    margin-top: 0;
+    font-size: 18px;
+}
+
+button#dropdownMenuButton {
+    background: #7db6de;
+    border: none;
+}
+
+.dropdown-menu.show {
+    display: block;
+    margin-top: 10px;
+    padding-right: 6px;
+}
+
+.dropdown-menu.show:hover {
+    background: #dddddd;
+}
+
+.dropdown-item:active {
+    background-color: #e7cff1;
+}
+
+.item .item-link {
+    color: black;
+}
+
+
+.show-paging {
+    display: flex;
+}
+
+p.text {
+    padding: 2%;
+}
+
+.pagination {
+    margin-left: 50%;
+}
+
+p.show-text {
+    font-size: 15px;
+}
+
+.div-alert {
+    width: 60%;
+    margin: 3% auto;
+    text-align: center;
+}
+
+/* style blade list product */
+.container.main-content {
+    width: 97%;
+    min-height: 750px;
+    border: 1px solid #7f7f7f;
+    border-bottom: none;
+}
+
+.sub-content-search {
+    border: 1px solid darkgray;
+    margin-top: 10px;
+}
+
+.search-text {
+    border-bottom: 1px solid darkgray;
+    padding-left: 10px;
+    padding-top: 7px;
+    height: 40px;
+}
+
+.search-content {
+    padding: 12px;
+}
+
+.double-button {
+    text-align: center;
+    margin-top: -20px;
+}
+
+.sub-content-show {
+    padding: 15px 0 15px;
+}
+
+button.btn.btn-success.add_new {
+    margin: 10px 0px 10px 0px;
+}
+
+.show-paging {
+    margin-top: 3%;
+    display: flex;
+}
+
+p.text {
+    padding: 6px;
+}
+
+.pagination {
+    margin-left: 50%;
+}
+
+p.show-text {
+    font-size: 15px;
+}
+
+button.btn.btn-info.edit-product {
+    margin-left: 30%;
+    min-width: 80px;
+}
+
+button.btn.btn-danger.del-product {
+    min-width: 80px;
+}
+
+button.btn.btn-info.edit-product a {
+    color: white;
+}
+
+button.btn.btn-danger.del-product a {
+    color: white;
+
+}

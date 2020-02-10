@@ -1,0 +1,23 @@
+
+#content span {
+    color: red;
+}
+
+label {
+    font-size: 22px;
+}
+
+li.error{
+    font-size: 23px!important;
+}
+input[type="text"] {
+    height: 40px;
+    font-size: 17pt;
+    color: #1d68a7;
+    padding-left: 7px;
+}
+
+textarea {
+    color: #1d68a7;
+    padding-left: 7px;
+}
